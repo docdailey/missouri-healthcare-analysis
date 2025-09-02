@@ -1,0 +1,2285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL JOPLIN",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM ST JOSEPH HEALTH CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MOSAIC LIFE CARE AT ST JOSEPH",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BOTHWELL REGIONAL HEALTH CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM HEALTH ST. MARY'S HOSPITAL - JEFFERSON CITY",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PHELPS COUNTY REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL ST LOUIS",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "NORTHEAST REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL JEFFERSON",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "TEXAS COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "HANNIBAL REGIONAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "RESEARCH MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "General Leonard Wood ACH (FT Leonard Wood)",
+        "provider_id": "",
+        "type": "Acute Care - Department of Defense",
+        "ownership": "Department of Defense",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BARNES JEWISH HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BATES COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COX MEDICAL CENTERS",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "TRUMAN MEDICAL CENTER HOSPITAL HILL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "KANSAS CITY VA MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care - Veterans Administration",
+        "ownership": "Veterans Health Administration",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MOSAIC MEDICAL CENTER - MARYVILLE",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL WASHINGTON",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CAMERON REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL LEBANON",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "NEVADA REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SAINT LUKES NORTH HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL SPRINGFIELD",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BOONE HOSPITAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PEMISCOT COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MOBERLY REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL SOUTH",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "OZARKS HEALTHCARE",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "POPLAR BLUFF VA MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care - Veterans Administration",
+        "ownership": "Veterans Health Administration",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM ST CLARE HEALTH CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST JOSEPH MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM HEALTH ST MARY'S HOSPITAL - ST LOUIS",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COX MEDICAL CENTER BRANSON",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CENTERPOINT MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "NORTH KANSAS CITY HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "WESTERN MISSOURI MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LOUIS-JOHN COCHRAN VA MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care - Veterans Administration",
+        "ownership": "Veterans Health Administration",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "UNIVERSITY HEALTH LAKEWOOD MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM HEALTH DEPAUL HOSPITAL ST LOUIS",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MISSOURI BAPTIST MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL SOUTHEAST",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MISSOURI DELTA MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "POPLAR BLUFF REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "FREEMAN HEALTH SYSTEM - FREEMAN WEST",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LUKES HOSPITAL OF KANSAS CITY",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "UNIVERSITY OF MISSOURI HEALTH CARE",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "FITZGIBBON HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL STODDARD",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BARNES-JEWISH WEST COUNTY HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PARKLAND HEALTH CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "GOLDEN VALLEY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LUKE'S DES PERES HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "LIBERTY HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LUKES HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CHRISTIAN HOSPITAL NORTHEAST",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SAINT FRANCIS MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "LAKE REGIONAL HEALTH SYSTEM",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "LEE'S SUMMIT MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BARNES-JEWISH ST PETERS HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST MARY'S MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CITIZENS MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SSM ST JOSEPH HOSPITAL WEST",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "BELTON REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SAINT LUKE'S EAST  HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PROGRESS WEST HOSPITAL",
+        "provider_id": "",
+        "type": "Acute Care Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COLUMBIA MO VA MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Acute Care - Veterans Administration",
+        "ownership": "Veterans Health Administration",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ELLETT MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MADISON MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COMMUNITY HOSPITAL ASSOCIATION",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PUTNAM COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SULLIVAN COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PERSHING MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "WASHINGTON COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "WRIGHT MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SCOTLAND COUNTY  HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL PERRY",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "HARRISON COUNTY COMMUNITY HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MACON COUNTY SAMARITAN MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "HERMANN AREA DISTRICT HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL AURORA",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL - CASSVILLE",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Church",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SALEM MEMORIAL DISTRICT HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL LINCOLN",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "LAFAYETTE REGIONAL HEALTH CENTER",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "HEDRICK MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "EXCELSIOR SPRINGS HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CEDAR COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CASS REGIONAL MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COX BARTON COUNTY HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "RAY COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MOSAIC MEDICAL CENTER ALBANY",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "COX MONETT HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "STE GENEVIEVE COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "FREEMAN NEOSHO HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CARROLL COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PIKE COUNTY MEMORIAL HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Local",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY ST FRANCIS HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "IRON COUNTY MEDICAL CENTER",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Government - Hospital District or Authority",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MISSOURI BAPTIST SULLIVAN HOSPITAL",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MERCY HOSPITAL CARTHAGE",
+        "provider_id": "",
+        "type": "Critical Access Hospitals",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LOUIS CHILDRENS HOSPITAL",
+        "provider_id": "",
+        "type": "Childrens",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "THE CHILDREN'S MERCY HOSPITAL",
+        "provider_id": "",
+        "type": "Childrens",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "RANKEN JORDAN PEDIATRIC BRIDGE HOSPITAL",
+        "provider_id": "",
+        "type": "Childrens",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SHRINERS HOSPITALS FOR CHILDREN",
+        "provider_id": "",
+        "type": "Childrens",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CENTER FOR BEHAVIORAL MEDICINE",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SOUTHEAST MISSOURI MENTAL HLTH CTR",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "NORTHWEST MISSOURI PSYCHIATRIC REHAB CTR",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CENTER FOR BEHAVIORAL MEDICINE",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ST LOUIS FORENSIC TREATMENT CENTER",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Government - State",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CENTERPOINTE HOSPITAL",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "ROYAL OAKS HOSPITAL",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Voluntary non-profit - Private",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "LAKELAND BEHAVIORAL HEALTH SYSTEM",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "OSAGE BEACH CENTER FOR BEHAVIORAL HEALTH",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "CENTERPOINTE HOSPITAL OF COLUMBIA",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "PERIMETER BEHAVIORAL HOSPITAL OF SPRINGFIELD",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "SOUTHEAST BEHAVIORAL HOSPITAL",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Proprietary",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.79275002978282,
+          38.38516302104519
+        ]
+      },
+      "properties": {
+        "name": "MARYLAND HEIGHTS CENTER FOR BEHAVIORAL HEALTH",
+        "provider_id": "",
+        "type": "Psychiatric",
+        "ownership": "Voluntary non-profit - Other",
+        "city": "",
+        "county": "",
+        "geocode_quality": "county_approximate"
+      }
+    }
+  ]
+}

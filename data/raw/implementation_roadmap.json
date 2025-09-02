@@ -1,0 +1,116 @@
+{
+  "phase_1_immediate": {
+    "timeline": "1-2 weeks",
+    "sources": [
+      {
+        "name": "Medicare Cost Reports",
+        "priority_score": 8.225,
+        "key_metrics": "Financial performance, utilization, staffing",
+        "estimated_coverage": 95
+      },
+      {
+        "name": "CMS Provider Utilization",
+        "priority_score": 7.275,
+        "key_metrics": "Patient volumes, Medicare utilization, payments",
+        "estimated_coverage": 85
+      }
+    ],
+    "description": "High priority, accessible data sources"
+  },
+  "phase_2_medium_term": {
+    "timeline": "3-4 weeks",
+    "sources": [
+      {
+        "name": "CMS Care Compare",
+        "priority_score": 6.699999999999999,
+        "key_metrics": "Quality ratings, patient experience",
+        "estimated_coverage": 70
+      },
+      {
+        "name": "HRSA UDS Data",
+        "priority_score": 6.25,
+        "key_metrics": "Demographics, clinical quality, detailed financials",
+        "estimated_coverage": 30
+      },
+      {
+        "name": "CMS Quality Payment Program",
+        "priority_score": 6.200000000000001,
+        "key_metrics": "Quality scores, cost measures, EHR adoption",
+        "estimated_coverage": 60
+      }
+    ],
+    "description": "Medium priority sources requiring more effort"
+  },
+  "phase_3_long_term": {
+    "timeline": "1-2 months",
+    "sources": [
+      {
+        "name": "Missouri DHSS Licensing",
+        "priority_score": 5.475,
+        "key_metrics": "Compliance, licensing status, inspections",
+        "estimated_coverage": 95
+      }
+    ],
+    "description": "Lower priority or difficult to access sources"
+  },
+  "manual_collection_needed": [
+    {
+      "name": "Medicare Cost Reports",
+      "priority_score": 8.225,
+      "key_metrics": "Financial performance, utilization, staffing",
+      "estimated_coverage": 95
+    },
+    {
+      "name": "HRSA UDS Data",
+      "priority_score": 6.25,
+      "key_metrics": "Demographics, clinical quality, detailed financials",
+      "estimated_coverage": 30
+    },
+    {
+      "name": "CMS Quality Payment Program",
+      "priority_score": 6.200000000000001,
+      "key_metrics": "Quality scores, cost measures, EHR adoption",
+      "estimated_coverage": 60
+    },
+    {
+      "name": "Missouri DHSS Licensing",
+      "priority_score": 5.475,
+      "key_metrics": "Compliance, licensing status, inspections",
+      "estimated_coverage": 95
+    }
+  ],
+  "automated_collection_possible": [
+    {
+      "name": "CMS Provider Utilization",
+      "priority_score": 7.275,
+      "key_metrics": "Patient volumes, Medicare utilization, payments",
+      "estimated_coverage": 85
+    },
+    {
+      "name": "CMS Care Compare",
+      "priority_score": 6.699999999999999,
+      "key_metrics": "Quality ratings, patient experience",
+      "estimated_coverage": 70
+    }
+  ],
+  "action_items": {
+    "immediate_next_steps": [
+      "Download Medicare Cost Report files from CMS website",
+      "Set up automated CMS Provider Utilization data pulls",
+      "Create scripts to process and filter large datasets",
+      "Establish data validation and quality checks"
+    ],
+    "medium_term_goals": [
+      "Contact Missouri DHSS for facility-specific data",
+      "Cross-reference RHCs with HRSA health centers",
+      "Implement quality score tracking system",
+      "Create automated reporting dashboard"
+    ],
+    "long_term_objectives": [
+      "Establish regular data refresh cycles",
+      "Develop predictive analytics capabilities",
+      "Create benchmarking and comparison tools",
+      "Build comprehensive RHC performance database"
+    ]
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "validation_results": {
+    "total_records": 316,
+    "geocoded_records": "316",
+    "in_missouri": 304,
+    "outside_missouri": 12,
+    "invalid_coords": 0,
+    "suspicious_locations": [
+      {
+        "city": "MANSFIELD",
+        "state": "MO",
+        "zip": 657049527,
+        "lat": 35.131070142350595,
+        "lon": -94.25714813100916,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "CLINTON",
+        "state": "MO",
+        "zip": 647351192,
+        "lat": 35.59316361419524,
+        "lon": -92.46495139890452,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "MOUNT VERNON",
+        "state": "MO",
+        "zip": 657121331,
+        "lat": 35.22690808594912,
+        "lon": -92.10973405408072,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "CONWAY",
+        "state": "MO",
+        "zip": 656838322,
+        "lat": 35.092848027652224,
+        "lon": -92.44350625135183,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "SALEM",
+        "state": "MO",
+        "zip": 655607217,
+        "lat": 38.62415630573078,
+        "lon": -88.94395349815012,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "CHARLESTON",
+        "state": "MO",
+        "zip": 638341446,
+        "lat": 35.29218619220379,
+        "lon": -94.03681102133608,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "SALEM",
+        "state": "MO",
+        "zip": 655601233,
+        "lat": 38.63132570600433,
+        "lon": -88.94908482972014,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "MOUNT VERNON",
+        "state": "MO",
+        "zip": 657127855,
+        "lat": 35.228965853679156,
+        "lon": -92.10608102357106,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "VANDALIA",
+        "state": "MO",
+        "zip": 633821259,
+        "lat": 38.96372558235162,
+        "lon": -89.09054302217827,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "BENTON",
+        "state": "MO",
+        "zip": 637368237,
+        "lat": 34.5685199388341,
+        "lon": -92.58981024134609,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "CHARLESTON",
+        "state": "MO",
+        "zip": 638341601,
+        "lat": 35.30034522238736,
+        "lon": -94.03284023442544,
+        "issue": "Outside Missouri boundaries"
+      },
+      {
+        "city": "SALEM",
+        "state": "MO",
+        "zip": 655602840,
+        "lat": 38.63121526803655,
+        "lon": -88.94864798762943,
+        "issue": "Outside Missouri boundaries"
+      }
+    ],
+    "coordinate_stats": {
+      "latitude": {
+        "min": 34.5685199388341,
+        "max": 40.517163106681025,
+        "mean": 38.00662687494583,
+        "std": 1.2994391747199483
+      },
+      "longitude": {
+        "min": -95.5157660838209,
+        "max": -88.94395349815012,
+        "mean": -92.12948280732178,
+        "std": 1.713399673754348
+      }
+    }
+  },
+  "comparison_results": {
+    "original_geocoded": "206",
+    "enhanced_geocoded": "316",
+    "improvement": "110",
+    "fixed_entries": [
+      {
+        "city": "MALDEN",
+        "state": "MO",
+        "zip": "638631512",
+        "new_lat": 36.5573,
+        "new_lon": -89.9665
+      },
+      {
+        "city": "PUXICO",
+        "state": "MO",
+        "zip": "639609104",
+        "new_lat": 36.9486,
+        "new_lon": -90.1597
+      },
+      {
+        "city": "PLATTSBURG",
+        "state": "MO",
+        "zip": "644771238",
+        "new_lat": 39.5647,
+        "new_lon": -94.4619
+      },
+      {
+        "city": "STEELVILLE",
+        "state": "MO",
+        "zip": "655656041",
+        "new_lat": 37.9631,
+        "new_lon": -91.3549
+      },
+      {
+        "city": "SAINT JAMES",
+        "state": "MO",
+        "zip": "655591903",
+        "new_lat": 37.9992,
+        "new_lon": -91.6107
+      },
+      {
+        "city": "SAINT ROBERT",
+        "state": "MO",
+        "zip": "655843730",
+        "new_lat": 37.8317,
+        "new_lon": -92.1818
+      },
+      {
+        "city": "BROOKFIELD",
+        "state": "MO",
+        "zip": "646282337",
+        "new_lat": 39.7803,
+        "new_lon": -93.0785
+      },
+      {
+        "city": "PLEASANT HILL",
+        "state": "MO",
+        "zip": "640801945",
+        "new_lat": 38.7883,
+        "new_lon": -94.2691
+      },
+      {
+        "city": "HAYTI",
+        "state": "MO",
+        "zip": "638511243",
+        "new_lat": 36.2367,
+        "new_lon": -89.7545
+      },
+      {
+        "city": "ARCHIE",
+        "state": "MO",
+        "zip": "647259215",
+        "new_lat": 38.4803,
+        "new_lon": -94.3527
+      },
+      {
+        "city": "GARDEN CITY",
+        "state": "MO",
+        "zip": "647478165",
+        "new_lat": 38.4022,
+        "new_lon": -94.193
+      },
+      {
+        "city": "SEYMOUR",
+        "state": "MO",
+        "zip": "657468858",
+        "new_lat": 37.1489,
+        "new_lon": -92.7698
+      },
+      {
+        "city": "HERMANN",
+        "state": "MO",
+        "zip": "650411613",
+        "new_lat": 38.7047,
+        "new_lon": -91.4368
+      },
+      {
+        "city": "APPLETON CITY",
+        "state": "MO",
+        "zip": "647241617",
+        "new_lat": 38.1928,
+        "new_lon": -94.033
+      },
+      {
+        "city": "CUBA",
+        "state": "MO",
+        "zip": "654531664",
+        "new_lat": 38.0619,
+        "new_lon": -91.4043
+      },
+      {
+        "city": "MATTHEWS",
+        "state": "MO",
+        "zip": "63867",
+        "new_lat": 36.7331,
+        "new_lon": -89.5859
+      },
+      {
+        "city": "BOURBON",
+        "state": "MO",
+        "zip": "654418308",
+        "new_lat": 38.1464,
+        "new_lon": -91.2537
+      },
+      {
+        "city": "STEELVILLE",
+        "state": "MO",
+        "zip": "655658102",
+        "new_lat": 37.9631,
+        "new_lon": -91.3549
+      },
+      {
+        "city": "KENNETT",
+        "state": "MO",
+        "zip": "638573252",
+        "new_lat": 36.2356,
+        "new_lon": -90.0537
+      },
+      {
+        "city": "LEXINGTON",
+        "state": "MO",
+        "zip": "640671345",
+        "new_lat": 39.1867,
+        "new_lon": -93.8774
+      },
+      {
+        "city": "HIGGINSVILLE",
+        "state": "MO",
+        "zip": "640371877",
+        "new_lat": 39.0752352,
+        "new_lon": -93.7172567
+      },
+      {
+        "city": "ODESSA",
+        "state": "MO",
+        "zip": "640767445",
+        "new_lat": 38.9995797,
+        "new_lon": -93.9539663
+      },
+      {
+        "city": "CAMPBELL",
+        "state": "MO",
+        "zip": "639330413",
+        "new_lat": 36.4933927,
+        "new_lon": -90.0750949
+      },
+      {
+        "city": "RICH HILL",
+        "state": "MO",
+        "zip": "647792145",
+        "new_lat": 38.0964191,
+        "new_lon": -94.3610616
+      },
+      {
+        "city": "CARUTHERSVILLE",
+        "state": "MO",
+        "zip": "638301890",
+        "new_lat": 36.191663,
+        "new_lon": -89.6548449
+      },
+      {
+        "city": "HAYTI",
+        "state": "MO",
+        "zip": "638511242",
+        "new_lat": 36.2367,
+        "new_lon": -89.7545
+      },
+      {
+        "city": "BRUNSWICK",
+        "state": "MO",
+        "zip": "652361468",
+        "new_lat": 39.4233577,
+        "new_lon": -93.1304782
+      },
+      {
+        "city": "PLEASANT HOPE",
+        "state": "MO",
+        "zip": "657258121",
+        "new_lat": 37.463098,
+        "new_lon": -93.2726904
+      },
+      {
+        "city": "ASH GROVE",
+        "state": "MO",
+        "zip": "656041005",
+        "new_lat": 37.3153257,
+        "new_lon": -93.5852004
+      },
+      {
+        "city": "HAMILTON",
+        "state": "MO",
+        "zip": "646441143",
+        "new_lat": 39.7436184,
+        "new_lon": -93.9982743
+      },
+      {
+        "city": "JAMESPORT",
+        "state": "MO",
+        "zip": "646487189",
+        "new_lat": 39.9747325,
+        "new_lon": -93.8010538
+      },
+      {
+        "city": "POLO",
+        "state": "MO",
+        "zip": "646719780",
+        "new_lat": 39.5522306,
+        "new_lon": -94.0407733
+      },
+      {
+        "city": "WYACONDA",
+        "state": "MO",
+        "zip": "634740317",
+        "new_lat": 40.3897603,
+        "new_lon": -91.9271168
+      },
+      {
+        "city": "DIXON",
+        "state": "MO",
+        "zip": "654598048",
+        "new_lat": 37.9917061,
+        "new_lon": -92.0937783
+      },
+      {
+        "city": "CARUTHERSVILLE",
+        "state": "MO",
+        "zip": "638302571",
+        "new_lat": 36.191663,
+        "new_lon": -89.6548449
+      },
+      {
+        "city": "PORTAGEVILLE",
+        "state": "MO",
+        "zip": "638731401",
+        "new_lat": 36.4292995,
+        "new_lon": -89.7012995
+      },
+      {
+        "city": "GALLATIN",
+        "state": "MO",
+        "zip": "646401435",
+        "new_lat": 39.9148326,
+        "new_lon": -93.9622221
+      },
+      {
+        "city": "EL DORADO SPRINGS",
+        "state": "MO",
+        "zip": "647442021",
+        "new_lat": 37.8769799,
+        "new_lon": -94.0213303
+      },
+      {
+        "city": "RICHLAND",
+        "state": "MO",
+        "zip": "655567393",
+        "new_lat": 37.8569838,
+        "new_lon": -92.4043396
+      },
+      {
+        "city": "OWENSVILLE",
+        "state": "MO",
+        "zip": "650661588",
+        "new_lat": 38.3456023,
+        "new_lon": -91.5015487
+      },
+      {
+        "city": "BLOOMSDALE",
+        "state": "MO",
+        "zip": "636279099",
+        "new_lat": 38.0094981,
+        "new_lon": -90.2178964
+      },
+      {
+        "city": "PILOT KNOB",
+        "state": "MO",
+        "zip": "636630329",
+        "new_lat": 37.6211611,
+        "new_lon": -90.6404007
+      },
+      {
+        "city": "ADRIAN",
+        "state": "MO",
+        "zip": "647209207",
+        "new_lat": 38.397518,
+        "new_lon": -94.3516159
+      },
+      {
+        "city": "SAINTE GENEVIEVE",
+        "state": "MO",
+        "zip": "636701820",
+        "new_lat": 37.88958,
+        "new_lon": -90.1856637
+      },
+      {
+        "city": "MONTGOMERY CITY",
+        "state": "MO",
+        "zip": "633611829",
+        "new_lat": 38.9775406,
+        "new_lon": -91.5048844
+      },
+      {
+        "city": "EL DORADO SPRINGS",
+        "state": "MO",
+        "zip": "647442302",
+        "new_lat": 37.8769799,
+        "new_lon": -94.0213303
+      },
+      {
+        "city": "VIENNA",
+        "state": "MO",
+        "zip": "655828101",
+        "new_lat": 38.186712,
+        "new_lon": -91.9472969
+      },
+      {
+        "city": "LEWISTOWN",
+        "state": "MO",
+        "zip": "634522560",
+        "new_lat": 40.086154,
+        "new_lon": -91.8132225
+      },
+      {
+        "city": "PUXICO",
+        "state": "MO",
+        "zip": "639609122",
+        "new_lat": 36.9486,
+        "new_lon": -90.1597
+      },
+      {
+        "city": "HOLDEN",
+        "state": "MO",
+        "zip": "640409421",
+        "new_lat": 38.7141778,
+        "new_lon": -93.9913303
+      },
+      {
+        "city": "KINGSVILLE",
+        "state": "MO",
+        "zip": "640612512",
+        "new_lat": 38.7430659,
+        "new_lon": -94.0699427
+      },
+      {
+        "city": "HALE",
+        "state": "MO",
+        "zip": "646437113",
+        "new_lat": 39.6036334,
+        "new_lon": -93.3424307
+      },
+      {
+        "city": "SLATER",
+        "state": "MO",
+        "zip": "653491328",
+        "new_lat": 39.2213138,
+        "new_lon": -93.0613025
+      },
+      {
+        "city": "CUBA",
+        "state": "MO",
+        "zip": "654531636",
+        "new_lat": 38.0619,
+        "new_lon": -91.4043
+      },
+      {
+        "city": "BOURBON",
+        "state": "MO",
+        "zip": "654416298",
+        "new_lat": 38.1464,
+        "new_lon": -91.2537
+      },
+      {
+        "city": "MEADVILLE",
+        "state": "MO",
+        "zip": "646599201",
+        "new_lat": 39.786761,
+        "new_lon": -93.3014659
+      },
+      {
+        "city": "BELLE",
+        "state": "MO",
+        "zip": "650133405",
+        "new_lat": 38.2856893,
+        "new_lon": -91.7225073
+      },
+      {
+        "city": "MALDEN",
+        "state": "MO",
+        "zip": "638631506",
+        "new_lat": 36.5573,
+        "new_lon": -89.9665
+      },
+      {
+        "city": "PORTAGEVILLE",
+        "state": "MO",
+        "zip": "638731402",
+        "new_lat": 36.4292995,
+        "new_lon": -89.7012995
+      },
+      {
+        "city": "GREEN CITY",
+        "state": "MO",
+        "zip": "635451361",
+        "new_lat": 40.268655,
+        "new_lon": -92.953262
+      },
+      {
+        "city": "THEODOSIA",
+        "state": "MO",
+        "zip": "657616539",
+        "new_lat": 36.5828412,
+        "new_lon": -92.6760005
+      },
+      {
+        "city": "BERNIE",
+        "state": "MO",
+        "zip": "638228901",
+        "new_lat": 36.6689446,
+        "new_lon": -89.9687021
+      },
+      {
+        "city": "NEW HAMPTON",
+        "state": "MO",
+        "zip": "644710222",
+        "new_lat": 40.263609,
+        "new_lon": -94.1960659
+      },
+      {
+        "city": "EAGLEVILLE",
+        "state": "MO",
+        "zip": "644428158",
+        "new_lat": 40.4691664,
+        "new_lon": -93.9871736
+      },
+      {
+        "city": "WASHINGTON",
+        "state": "MO",
+        "zip": "630903135",
+        "new_lat": 37.9559513,
+        "new_lon": -90.879099
+      },
+      {
+        "city": "IBERIA",
+        "state": "MO",
+        "zip": "654869331",
+        "new_lat": 38.0903154,
+        "new_lon": -92.2926747
+      },
+      {
+        "city": "LAKE OZARK",
+        "state": "MO",
+        "zip": "650498658",
+        "new_lat": 38.1798796,
+        "new_lon": -92.6226454
+      },
+      {
+        "city": "NEW MADRID",
+        "state": "MO",
+        "zip": "638691513",
+        "new_lat": 36.5749606,
+        "new_lon": -89.6780945
+      },
+      {
+        "city": "GRAVOIS MILLS",
+        "state": "MO",
+        "zip": "650375394",
+        "new_lat": 38.3083615,
+        "new_lon": -92.8254697
+      },
+      {
+        "city": "SALISBURY",
+        "state": "MO",
+        "zip": "652811405",
+        "new_lat": 39.4239175,
+        "new_lon": -92.8015773
+      },
+      {
+        "city": "EAGLEVILLE",
+        "state": "MO",
+        "zip": "644427130",
+        "new_lat": 40.4691664,
+        "new_lon": -93.9871736
+      },
+      {
+        "city": "OSCEOLA",
+        "state": "MO",
+        "zip": "647762934",
+        "new_lat": 38.0469778,
+        "new_lon": -93.7035287
+      },
+      {
+        "city": "OSCEOLA",
+        "state": "MO",
+        "zip": "647766278",
+        "new_lat": 38.0469778,
+        "new_lon": -93.7035287
+      },
+      {
+        "city": "MT. VERNON",
+        "state": "MO",
+        "zip": "657121407",
+        "new_lat": 37.1036666,
+        "new_lon": -93.8185401
+      },
+      {
+        "city": "WINFIELD",
+        "state": "MO",
+        "zip": "633893451",
+        "new_lat": 38.9972723,
+        "new_lon": -90.738458
+      },
+      {
+        "city": "ELSBERRY",
+        "state": "MO",
+        "zip": "633431345",
+        "new_lat": 39.1667151,
+        "new_lon": -90.7809598
+      },
+      {
+        "city": "FAYETTE",
+        "state": "MO",
+        "zip": "652481471",
+        "new_lat": 39.1463012,
+        "new_lon": -92.6833591
+      },
+      {
+        "city": "STEELE",
+        "state": "MO",
+        "zip": "638771714",
+        "new_lat": 36.0839594,
+        "new_lon": -89.8292512
+      },
+      {
+        "city": "MAYSVILLE",
+        "state": "MO",
+        "zip": "644694030",
+        "new_lat": 39.8891658,
+        "new_lon": -94.3618967
+      },
+      {
+        "city": "MONTGOMERY CITY",
+        "state": "MO",
+        "zip": "633612550",
+        "new_lat": 38.9775406,
+        "new_lon": -91.5048844
+      },
+      {
+        "city": "RICHMOND",
+        "state": "MO",
+        "zip": "640852229",
+        "new_lat": 39.278622,
+        "new_lon": -93.9768876
+      },
+      {
+        "city": "RICH HILL",
+        "state": "MO",
+        "zip": "647791372",
+        "new_lat": 38.0964191,
+        "new_lon": -94.3610616
+      },
+      {
+        "city": "HIGGINSVILLE",
+        "state": "MO",
+        "zip": "640371420",
+        "new_lat": 39.0752352,
+        "new_lon": -93.7172567
+      },
+      {
+        "city": "SOUTH WEST CITY",
+        "state": "MO",
+        "zip": "648639417",
+        "new_lat": 36.5265754,
+        "new_lon": -94.6161071
+      },
+      {
+        "city": "GOODMAN",
+        "state": "MO",
+        "zip": "648438252",
+        "new_lat": 36.7393288,
+        "new_lon": -94.4084118
+      },
+      {
+        "city": "EL DORADO SPRINGS",
+        "state": "MO",
+        "zip": "647442022",
+        "new_lat": 37.8769799,
+        "new_lon": -94.0213303
+      },
+      {
+        "city": "BURLINGTON JUNCTION",
+        "state": "MO",
+        "zip": "644287249",
+        "new_lat": 40.4470801,
+        "new_lon": -95.0665308
+      },
+      {
+        "city": "CARUTHERSVILLE",
+        "state": "MO",
+        "zip": "638302202",
+        "new_lat": 36.191663,
+        "new_lon": -89.6548449
+      },
+      {
+        "city": "EAST PRAIRIE",
+        "state": "MO",
+        "zip": "638451160",
+        "new_lat": 36.7797776,
+        "new_lon": -89.3856298
+      },
+      {
+        "city": "CONCORDIA",
+        "state": "MO",
+        "zip": "640208335",
+        "new_lat": 38.9824542,
+        "new_lon": -93.5685013
+      },
+      {
+        "city": "KNOB NOSTER",
+        "state": "MO",
+        "zip": "653361184",
+        "new_lat": 38.7666798,
+        "new_lon": -93.5585458
+      },
+      {
+        "city": "GOLDEN CITY",
+        "state": "MO",
+        "zip": "64748",
+        "new_lat": 37.3931054,
+        "new_lon": -94.0938304
+      },
+      {
+        "city": "WARRENTON",
+        "state": "MO",
+        "zip": "633831065",
+        "new_lat": 38.810751,
+        "new_lon": -91.150268
+      },
+      {
+        "city": "NEW MADRID",
+        "state": "MO",
+        "zip": "638691106",
+        "new_lat": 36.5749606,
+        "new_lon": -89.6780945
+      },
+      {
+        "city": "EDINA",
+        "state": "MO",
+        "zip": "635374268",
+        "new_lat": 40.1675386,
+        "new_lon": -92.1726821
+      },
+      {
+        "city": "BRUNSWICK",
+        "state": "MO",
+        "zip": "652361468",
+        "new_lat": 39.4233577,
+        "new_lon": -93.1304782
+      },
+      {
+        "city": "KENNETT",
+        "state": "MO",
+        "zip": "638573834",
+        "new_lat": 36.2356,
+        "new_lon": -90.0537
+      },
+      {
+        "city": "LAWSON",
+        "state": "MO",
+        "zip": "640629402",
+        "new_lat": 39.4383387,
+        "new_lon": -94.2041096
+      },
+      {
+        "city": "COLE CAMP",
+        "state": "MO",
+        "zip": "653251256",
+        "new_lat": 38.4600212,
+        "new_lon": -93.2027036
+      },
+      {
+        "city": "KENNETT",
+        "state": "MO",
+        "zip": "638573268",
+        "new_lat": 36.2356,
+        "new_lon": -90.0537
+      },
+      {
+        "city": "HAYTI",
+        "state": "MO",
+        "zip": "638511617",
+        "new_lat": 36.2367,
+        "new_lon": -89.7545
+      },
+      {
+        "city": "STEELE",
+        "state": "MO",
+        "zip": "638771436",
+        "new_lat": 36.0839594,
+        "new_lon": -89.8292512
+      },
+      {
+        "city": "PILOT GROVE",
+        "state": "MO",
+        "zip": "652761005",
+        "new_lat": 38.874744,
+        "new_lon": -92.9115825
+      },
+      {
+        "city": "GIDEON",
+        "state": "MO",
+        "zip": "638489253",
+        "new_lat": 36.4520057,
+        "new_lon": -89.9192558
+      },
+      {
+        "city": "SAINT JAMES",
+        "state": "MO",
+        "zip": "655591078",
+        "new_lat": 37.9992,
+        "new_lon": -91.6107
+      },
+      {
+        "city": "WAYNESVILLE",
+        "state": "MO",
+        "zip": "655832339",
+        "new_lat": 37.8141419,
+        "new_lon": -92.2266876
+      },
+      {
+        "city": "ROGERVILLE",
+        "state": "MO",
+        "zip": "657429357",
+        "new_lat": 37.1176314,
+        "new_lon": -93.0572272
+      },
+      {
+        "city": "KING CITY",
+        "state": "MO",
+        "zip": "644637812",
+        "new_lat": 40.0513843,
+        "new_lon": -94.524125
+      },
+      {
+        "city": "MALDEN",
+        "state": "MO",
+        "zip": "638631358",
+        "new_lat": 36.5573,
+        "new_lon": -89.9665
+      },
+      {
+        "city": "PLATTSBURG",
+        "state": "MO",
+        "zip": "644771424",
+        "new_lat": 39.5647,
+        "new_lon": -94.4619
+      }
+    ]
+  },
+  "method_stats": {
+    "direct": 78,
+    "manual_fix": 31,
+    "fuzzy_match": 1
+  },
+  "final_metrics": {
+    "coverage_rate": 100.0,
+    "accuracy_rate": 96.20253164556962,
+    "overall_success": 96.20253164556962
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "cms_provider_utilization": {
+    "description": "CMS Medicare Provider Utilization and Payment Data",
+    "data_elements": {
+      "patient_volumes": [
+        "Total Services",
+        "Total Unique Beneficiaries",
+        "Total Medicare Beneficiaries"
+      ],
+      "utilization_metrics": [
+        "Average Medicare Allowed Amount",
+        "Average Medicare Payment Amount"
+      ],
+      "geographic_data": [
+        "Provider State",
+        "Provider Zip Code"
+      ],
+      "provider_info": [
+        "NPI",
+        "Provider Last Name/Organization Name",
+        "Provider First Name"
+      ]
+    },
+    "access_method": "CMS Data API",
+    "api_endpoint": "https://data.cms.gov/provider-summary-by-type-of-service",
+    "search_strategy": "Filter by NPI numbers for Missouri RHCs",
+    "update_frequency": "Annual",
+    "data_years_available": "2020-2023",
+    "file_format": "CSV via API or direct download",
+    "download_urls": [
+      "https://data.cms.gov/provider-summary-by-type-of-service/medicare-provider-utilization-and-payment-data-physician-and-other-suppliers-by-provider-and-service",
+      "https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier"
+    ]
+  },
+  "cms_care_compare": {
+    "description": "CMS Care Compare Quality Data",
+    "data_elements": {
+      "quality_metrics": [
+        "Overall Rating",
+        "Quality Measure Scores",
+        "Patient Experience Ratings"
+      ],
+      "facility_info": [
+        "Provider Name",
+        "Address",
+        "Phone Number",
+        "Ownership Type"
+      ],
+      "services_offered": [
+        "Emergency Services",
+        "Patient Experience Survey Results"
+      ]
+    },
+    "access_method": "Care Compare Website and API",
+    "api_endpoint": "https://data.cms.gov/provider-data/topics/hospitals",
+    "search_strategy": "Filter by CCN numbers and facility type",
+    "update_frequency": "Monthly for some measures, quarterly for others",
+    "file_format": "CSV downloads and API",
+    "download_urls": [
+      "https://data.cms.gov/provider-data/dataset/xubh-q36u",
+      "https://www.medicare.gov/care-compare/"
+    ]
+  },
+  "medicare_cost_reports": {
+    "description": "Medicare Cost Reports for Rural Health Clinics",
+    "data_elements": {
+      "financial_performance": [
+        "Total Operating Revenue",
+        "Total Operating Expenses",
+        "Net Income/Loss",
+        "Bad Debt Expense",
+        "Charity Care",
+        "Contractual Adjustments"
+      ],
+      "utilization_metrics": [
+        "Total Patient Visits",
+        "Medicare Visits",
+        "Medicaid Visits",
+        "Uninsured Visits",
+        "Total Unduplicated Patients"
+      ],
+      "staffing_data": [
+        "Full-time Employee Count",
+        "Part-time Employee Count",
+        "Physician FTEs",
+        "Nurse Practitioner FTEs",
+        "PA FTEs"
+      ],
+      "operational_metrics": [
+        "Total Square Footage",
+        "Hours of Operation",
+        "Emergency/After Hours Services"
+      ]
+    },
+    "access_method": "Direct download from CMS",
+    "search_strategy": "Download full dataset and filter by CCN",
+    "update_frequency": "Annual",
+    "file_format": "Large CSV files (500MB+)",
+    "download_urls": [
+      "https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/Cost-Reports/RHC.html",
+      "https://www.cms.gov/files/zip/2023-rural-health-clinic-cost-report-data.zip"
+    ],
+    "manual_steps": [
+      "1. Visit CMS Cost Report page",
+      "2. Download latest RHC cost report ZIP file",
+      "3. Extract and filter by Missouri CCN numbers",
+      "4. Join with enrollment data for complete picture"
+    ]
+  },
+  "hrsa_uniform_data_system": {
+    "description": "HRSA Uniform Data System (if RHCs are also FQHCs)",
+    "data_elements": {
+      "patient_demographics": [
+        "Age Groups",
+        "Race/Ethnicity",
+        "Income Levels",
+        "Insurance Status"
+      ],
+      "clinical_data": [
+        "Diagnoses",
+        "Services Provided",
+        "Clinical Quality Measures"
+      ],
+      "staffing": [
+        "Clinical Staff by Type",
+        "Support Staff",
+        "Volunteer Hours"
+      ],
+      "financial": [
+        "Operating Revenue by Source",
+        "Operating Expenses by Category"
+      ]
+    },
+    "access_method": "HRSA Data Portal",
+    "search_strategy": "Cross-reference RHC names/addresses with HRSA Find a Health Center",
+    "limitation": "Only applies to RHCs that are also HRSA-funded",
+    "download_urls": [
+      "https://data.hrsa.gov/tools/data-reporting",
+      "https://findahealthcenter.hrsa.gov/"
+    ]
+  },
+  "missouri_dhss_licensing": {
+    "description": "Missouri Department of Health and Senior Services",
+    "data_elements": {
+      "licensing_data": [
+        "License Status",
+        "License Type",
+        "Expiration Dates"
+      ],
+      "inspection_reports": [
+        "Survey Results",
+        "Deficiencies",
+        "Compliance Status"
+      ],
+      "complaints": [
+        "Patient Complaints",
+        "Investigation Results"
+      ],
+      "staffing": [
+        "Licensed Staff Counts",
+        "Credentialing Information"
+      ]
+    },
+    "access_method": "Manual search of MO DHSS databases",
+    "search_strategy": "Search by facility name and address",
+    "download_urls": [
+      "https://health.mo.gov/safety/healthcarefacilities/",
+      "https://webapp01.dhss.mo.gov/MOPHIMS/"
+    ]
+  },
+  "cms_quality_payment_program": {
+    "description": "Merit-based Incentive Payment System (MIPS) Data",
+    "data_elements": {
+      "quality_scores": [
+        "Quality Category Score",
+        "Improvement Activities Score"
+      ],
+      "cost_measures": [
+        "Total Per Capita Cost",
+        "Medicare Spending Per Beneficiary"
+      ],
+      "promoting_interoperability": [
+        "PI Category Score",
+        "EHR Adoption Measures"
+      ]
+    },
+    "access_method": "QPP API and public reporting",
+    "search_strategy": "Filter by NPI numbers participating in MIPS",
+    "download_urls": [
+      "https://qpp.cms.gov/api/",
+      "https://data.cms.gov/provider-data/topics/quality-payment-program"
+    ]
+  }
+}

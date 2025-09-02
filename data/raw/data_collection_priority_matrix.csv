@@ -1,0 +1,7 @@
+data_source,data_richness,accessibility,update_frequency,relevance_to_operations,estimated_coverage,collection_effort,priority_score,key_metrics
+Medicare Cost Reports,10,6,8,10,95,6,8.225,"Financial performance, utilization, staffing"
+CMS Provider Utilization,8,7,7,9,85,7,7.275,"Patient volumes, Medicare utilization, payments"
+CMS Care Compare,6,8,9,8,70,8,6.699999999999999,"Quality ratings, patient experience"
+HRSA UDS Data,9,5,7,8,30,5,6.25,"Demographics, clinical quality, detailed financials"
+CMS Quality Payment Program,7,6,8,7,60,6,6.200000000000001,"Quality scores, cost measures, EHR adoption"
+Missouri DHSS Licensing,5,4,6,6,95,4,5.475,"Compliance, licensing status, inspections"

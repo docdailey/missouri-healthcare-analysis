@@ -1,0 +1,171 @@
+{
+  "corrections_applied": [
+    {
+      "index": 3,
+      "city": "MANSFIELD",
+      "state": "MO",
+      "zip_code": "657049527",
+      "old_coordinates": [
+        35.131070142350595,
+        -94.25714813100916
+      ],
+      "new_coordinates": [
+        37.1056,
+        -92.5843
+      ]
+    },
+    {
+      "index": 13,
+      "city": "CLINTON",
+      "state": "MO",
+      "zip_code": "647351192",
+      "old_coordinates": [
+        35.59316361419524,
+        -92.46495139890452
+      ],
+      "new_coordinates": [
+        38.3614,
+        -93.7788
+      ]
+    },
+    {
+      "index": 44,
+      "city": "MOUNT VERNON",
+      "state": "MO",
+      "zip_code": "657121331",
+      "old_coordinates": [
+        35.22690808594912,
+        -92.10973405408072
+      ],
+      "new_coordinates": [
+        37.1037,
+        -93.8186
+      ]
+    },
+    {
+      "index": 51,
+      "city": "CONWAY",
+      "state": "MO",
+      "zip_code": "656838322",
+      "old_coordinates": [
+        35.092848027652224,
+        -92.44350625135183
+      ],
+      "new_coordinates": [
+        37.4908,
+        -92.9965
+      ]
+    },
+    {
+      "index": 101,
+      "city": "SALEM",
+      "state": "MO",
+      "zip_code": "655607217",
+      "old_coordinates": [
+        38.62415630573078,
+        -88.94395349815012
+      ],
+      "new_coordinates": [
+        37.6204,
+        -91.5346
+      ]
+    },
+    {
+      "index": 129,
+      "city": "CHARLESTON",
+      "state": "MO",
+      "zip_code": "638341446",
+      "old_coordinates": [
+        35.29218619220379,
+        -94.03681102133608
+      ],
+      "new_coordinates": [
+        36.9206,
+        -89.3501
+      ]
+    },
+    {
+      "index": 139,
+      "city": "SALEM",
+      "state": "MO",
+      "zip_code": "655601233",
+      "old_coordinates": [
+        38.63132570600433,
+        -88.94908482972014
+      ],
+      "new_coordinates": [
+        37.6204,
+        -91.5346
+      ]
+    },
+    {
+      "index": 210,
+      "city": "MOUNT VERNON",
+      "state": "MO",
+      "zip_code": "657127855",
+      "old_coordinates": [
+        35.228965853679156,
+        -92.10608102357106
+      ],
+      "new_coordinates": [
+        37.1037,
+        -93.8186
+      ]
+    },
+    {
+      "index": 215,
+      "city": "VANDALIA",
+      "state": "MO",
+      "zip_code": "633821259",
+      "old_coordinates": [
+        38.96372558235162,
+        -89.09054302217827
+      ],
+      "new_coordinates": [
+        39.3109,
+        -91.4876
+      ]
+    },
+    {
+      "index": 219,
+      "city": "BENTON",
+      "state": "MO",
+      "zip_code": "637368237",
+      "old_coordinates": [
+        34.5685199388341,
+        -92.58981024134609
+      ],
+      "new_coordinates": [
+        37.0961,
+        -89.5668
+      ]
+    }
+  ],
+  "validation_results": {
+    "total_records": 316,
+    "geocoded_records": "316",
+    "in_missouri": 314,
+    "outside_missouri": 2,
+    "remaining_issues": [
+      {
+        "city": "CHARLESTON",
+        "state": "MO",
+        "zip": 638341601,
+        "lat": 35.30034522238736,
+        "lon": -94.03284023442544
+      },
+      {
+        "city": "SALEM",
+        "state": "MO",
+        "zip": 655602840,
+        "lat": 38.63121526803655,
+        "lon": -88.94864798762943
+      }
+    ]
+  },
+  "final_metrics": {
+    "coverage_rate": 100.0,
+    "accuracy_rate": 99.36708860759494,
+    "overall_success": 99.36708860759494
+  }
+}

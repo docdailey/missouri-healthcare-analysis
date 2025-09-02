@@ -1,0 +1,41 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Geospatial analysis
+geopandas>=0.13.0
+shapely>=2.0.0
+pyproj>=3.5.0
+geopy>=2.3.0
+
+# Visualization
+folium>=0.14.0
+plotly>=5.14.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web frameworks (for dashboards)
+dash>=2.10.0
+dash-bootstrap-components>=1.4.0
+
+# Data formats
+openpyxl>=3.1.0  # Excel files
+pyarrow>=12.0.0  # Parquet files
+xlrd>=2.0.0      # Legacy Excel
+
+# Utilities
+python-dotenv>=1.0.0
+click>=8.1.0
+tqdm>=4.65.0
+
+# Development tools (optional)
+jupyter>=1.0.0
+ipykernel>=6.22.0
+pytest>=7.3.0
+black>=23.3.0
+flake8>=6.0.0
+
+# API clients (if needed)
+requests>=2.31.0
+beautifulsoup4>=4.12.0  # For web scraping

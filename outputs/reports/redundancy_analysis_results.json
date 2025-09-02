@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "total_facilities": 478,
+    "hospitals": 105,
+    "rhcs": 330,
+    "fqhcs": 43,
+    "redundancy_score": 4.656903765690377,
+    "isolated_facilities": 23,
+    "consolidation_clusters": 49,
+    "estimated_inefficiency": 219000000.0
+  },
+  "top_redundant_facilities": [
+    {
+      "name": "SSM ST JOSEPH HEALTH CENTER",
+      "type": "Hospital",
+      "city": "SAINT CHARLES",
+      "overlaps": 32
+    },
+    {
+      "name": "Affinia West Florissant",
+      "type": "FQHC",
+      "city": "ST LOUIS",
+      "overlaps": 32
+    },
+    {
+      "name": "CareSTL North Grand",
+      "type": "FQHC",
+      "city": "ST LOUIS",
+      "overlaps": 32
+    },
+    {
+      "name": "Grace Hill Water Tower",
+      "type": "FQHC",
+      "city": "ST LOUIS",
+      "overlaps": 32
+    },
+    {
+      "name": "Grace Hill Soulard",
+      "type": "FQHC",
+      "city": "ST LOUIS",
+      "overlaps": 32
+    },
+    {
+      "name": "MERCY HOSPITAL SOUTH",
+      "type": "Hospital",
+      "city": "SAINT LOUIS",
+      "overlaps": 31
+    },
+    {
+      "name": "SSM HEALTH ST MARY'S HOSPITAL - ST LOUIS",
+      "type": "Hospital",
+      "city": "SAINT LOUIS",
+      "overlaps": 31
+    },
+    {
+      "name": "ST LOUIS-JOHN COCHRAN VA MEDICAL CENTER",
+      "type": "Hospital",
+      "city": "ST. LOUIS",
+      "overlaps": 31
+    },
+    {
+      "name": "ST LUKE'S DES PERES HOSPITAL",
+      "type": "Hospital",
+      "city": "ST LOUIS",
+      "overlaps": 31
+    },
+    {
+      "name": "Affinia Downtown",
+      "type": "FQHC",
+      "city": "ST LOUIS",
+      "overlaps": 31
+    }
+  ],
+  "consolidation_opportunities": 49
+}

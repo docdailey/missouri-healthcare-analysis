@@ -1,0 +1,461 @@
+county_name,county_latitude,county_longitude,service_type,nearest_facility_name,nearest_facility_distance_miles,drive_time_minutes,within_30_min_target,within_60_min_target,within_90_min_target,calculation_method,notes
+Adair,40.1906,-92.6888,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Adair,40.1906,-92.6888,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Adair,40.1906,-92.6888,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Adair,40.1906,-92.6888,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Andrew,39.9436,-94.8075,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Andrew,39.9436,-94.8075,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Andrew,39.9436,-94.8075,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Andrew,39.9436,-94.8075,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Atchison,40.44,-95.1183,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Atchison,40.44,-95.1183,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Atchison,40.44,-95.1183,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Atchison,40.44,-95.1183,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Audrain,39.2231,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Audrain,39.2231,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Audrain,39.2231,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Audrain,39.2231,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barry,36.7275,-93.8185,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barry,36.7275,-93.8185,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barry,36.7275,-93.8185,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barry,36.7275,-93.8185,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barton,37.4886,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barton,37.4886,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barton,37.4886,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Barton,37.4886,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bates,38.2506,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bates,38.2506,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bates,38.2506,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bates,38.2506,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Benton,38.3506,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Benton,38.3506,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Benton,38.3506,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Benton,38.3506,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bollinger,37.3261,-89.8854,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bollinger,37.3261,-89.8854,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bollinger,37.3261,-89.8854,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Bollinger,37.3261,-89.8854,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Boone,38.9517,-92.3341,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Boone,38.9517,-92.3341,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Boone,38.9517,-92.3341,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Boone,38.9517,-92.3341,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Buchanan,39.7539,-94.8441,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Buchanan,39.7539,-94.8441,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Buchanan,39.7539,-94.8441,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Buchanan,39.7539,-94.8441,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Butler,36.8983,-90.5418,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Butler,36.8983,-90.5418,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Butler,36.8983,-90.5418,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Butler,36.8983,-90.5418,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Caldwell,39.5281,-93.8769,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Caldwell,39.5281,-93.8769,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Caldwell,39.5281,-93.8769,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Caldwell,39.5281,-93.8769,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Callaway,38.8142,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Callaway,38.8142,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Callaway,38.8142,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Callaway,38.8142,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Camden,38.0581,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Camden,38.0581,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Camden,38.0581,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Camden,38.0581,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cape Girardeau,37.3058,-89.5181,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cape Girardeau,37.3058,-89.5181,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cape Girardeau,37.3058,-89.5181,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cape Girardeau,37.3058,-89.5181,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carroll,39.3281,-93.493,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carroll,39.3281,-93.493,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carroll,39.3281,-93.493,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carroll,39.3281,-93.493,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carter,36.9872,-91.0079,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carter,36.9872,-91.0079,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carter,36.9872,-91.0079,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Carter,36.9872,-91.0079,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cass,38.6075,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cass,38.6075,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cass,38.6075,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cass,38.6075,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cedar,37.7842,-93.8185,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cedar,37.7842,-93.8185,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cedar,37.7842,-93.8185,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cedar,37.7842,-93.8185,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Chariton,39.4281,-93.0104,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Chariton,39.4281,-93.0104,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Chariton,39.4281,-93.0104,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Chariton,39.4281,-93.0104,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Christian,37.0167,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Christian,37.0167,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Christian,37.0167,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Christian,37.0167,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clark,40.44,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clark,40.44,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clark,40.44,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clark,40.44,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clay,39.2906,-94.4199,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clay,39.2906,-94.4199,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clay,39.2906,-94.4199,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clay,39.2906,-94.4199,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clinton,39.3644,-94.3841,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clinton,39.3644,-94.3841,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clinton,39.3644,-94.3841,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Clinton,39.3644,-94.3841,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cole,38.5131,-92.1771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cole,38.5131,-92.1771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cole,38.5131,-92.1771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cole,38.5131,-92.1771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cooper,38.8142,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cooper,38.8142,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cooper,38.8142,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Cooper,38.8142,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Crawford,38.1072,-91.2638,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Crawford,38.1072,-91.2638,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Crawford,38.1072,-91.2638,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Crawford,38.1072,-91.2638,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dade,37.4886,-93.8185,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dade,37.4886,-93.8185,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dade,37.4886,-93.8185,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dade,37.4886,-93.8185,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dallas,37.4886,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dallas,37.4886,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dallas,37.4886,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dallas,37.4886,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Daviess,39.8581,-93.8769,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Daviess,39.8581,-93.8769,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Daviess,39.8581,-93.8769,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Daviess,39.8581,-93.8769,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+DeKalb,39.7539,-94.4199,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+DeKalb,39.7539,-94.4199,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+DeKalb,39.7539,-94.4199,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+DeKalb,39.7539,-94.4199,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dent,37.5975,-91.5604,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dent,37.5975,-91.5604,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dent,37.5975,-91.5604,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dent,37.5975,-91.5604,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Douglas,36.8983,-92.3799,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Douglas,36.8983,-92.3799,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Douglas,36.8983,-92.3799,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Douglas,36.8983,-92.3799,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dunklin,36.34,-90.1043,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dunklin,36.34,-90.1043,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dunklin,36.34,-90.1043,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Dunklin,36.34,-90.1043,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Franklin,38.44,-90.8516,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Franklin,38.44,-90.8516,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Franklin,38.44,-90.8516,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Franklin,38.44,-90.8516,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gasconade,38.5131,-91.5604,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gasconade,38.5131,-91.5604,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gasconade,38.5131,-91.5604,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gasconade,38.5131,-91.5604,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gentry,40.1906,-94.4199,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gentry,40.1906,-94.4199,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gentry,40.1906,-94.4199,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Gentry,40.1906,-94.4199,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Greene,37.2167,-93.4747,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Greene,37.2167,-93.4747,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Greene,37.2167,-93.4747,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Greene,37.2167,-93.4747,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Grundy,40.1064,-93.6302,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Grundy,40.1064,-93.6302,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Grundy,40.1064,-93.6302,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Grundy,40.1064,-93.6302,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Harrison,40.44,-93.8769,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Harrison,40.44,-93.8769,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Harrison,40.44,-93.8769,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Harrison,40.44,-93.8769,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Henry,38.3506,-93.8769,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Henry,38.3506,-93.8769,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Henry,38.3506,-93.8769,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Henry,38.3506,-93.8769,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Hickory,37.7842,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Hickory,37.7842,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Hickory,37.7842,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Hickory,37.7842,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Holt,40.1906,-95.1183,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Holt,40.1906,-95.1183,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Holt,40.1906,-95.1183,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Holt,40.1906,-95.1183,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howard,39.095,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howard,39.095,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howard,39.095,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howard,39.095,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howell,36.8983,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howell,36.8983,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howell,36.8983,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Howell,36.8983,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Iron,37.5975,-90.641,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Iron,37.5975,-90.641,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Iron,37.5975,-90.641,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Iron,37.5975,-90.641,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jackson,39.0117,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jackson,39.0117,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jackson,39.0117,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jackson,39.0117,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jasper,37.2167,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jasper,37.2167,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jasper,37.2167,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jasper,37.2167,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jefferson,38.2506,-90.4134,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jefferson,38.2506,-90.4134,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jefferson,38.2506,-90.4134,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Jefferson,38.2506,-90.4134,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Johnson,38.6906,-93.8769,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Johnson,38.6906,-93.8769,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Johnson,38.6906,-93.8769,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Johnson,38.6906,-93.8769,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Knox,40.1906,-92.0104,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Knox,40.1906,-92.0104,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Knox,40.1906,-92.0104,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Knox,40.1906,-92.0104,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Laclede,37.4886,-92.5604,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Laclede,37.4886,-92.5604,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Laclede,37.4886,-92.5604,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Laclede,37.4886,-92.5604,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lafayette,39.1281,-93.493,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lafayette,39.1281,-93.493,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lafayette,39.1281,-93.493,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lafayette,39.1281,-93.493,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lawrence,37.0167,-93.8185,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lawrence,37.0167,-93.8185,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lawrence,37.0167,-93.8185,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lawrence,37.0167,-93.8185,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lewis,39.9436,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lewis,39.9436,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lewis,39.9436,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lewis,39.9436,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lincoln,39.095,-90.9683,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lincoln,39.095,-90.9683,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lincoln,39.095,-90.9683,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Lincoln,39.095,-90.9683,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Linn,39.77,-93.1771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Linn,39.77,-93.1771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Linn,39.77,-93.1771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Linn,39.77,-93.1771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Livingston,39.7539,-93.6302,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Livingston,39.7539,-93.6302,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Livingston,39.7539,-93.6302,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Livingston,39.7539,-93.6302,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Macon,39.7539,-92.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Macon,39.7539,-92.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Macon,39.7539,-92.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Macon,39.7539,-92.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Madison,37.5975,-90.241,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Madison,37.5975,-90.241,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Madison,37.5975,-90.241,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Madison,37.5975,-90.241,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Maries,38.1631,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Maries,38.1631,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Maries,38.1631,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Maries,38.1631,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Marion,39.77,-91.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Marion,39.77,-91.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Marion,39.77,-91.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Marion,39.77,-91.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+McDonald,36.7275,-94.2191,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+McDonald,36.7275,-94.2191,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+McDonald,36.7275,-94.2191,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+McDonald,36.7275,-94.2191,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mercer,40.44,-93.6302,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mercer,40.44,-93.6302,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mercer,40.44,-93.6302,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mercer,40.44,-93.6302,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Miller,38.2506,-92.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Miller,38.2506,-92.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Miller,38.2506,-92.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Miller,38.2506,-92.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mississippi,36.8983,-89.3854,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mississippi,36.8983,-89.3854,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mississippi,36.8983,-89.3854,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Mississippi,36.8983,-89.3854,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Moniteau,38.6906,-92.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Moniteau,38.6906,-92.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Moniteau,38.6906,-92.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Moniteau,38.6906,-92.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Monroe,39.2947,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Monroe,39.2947,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Monroe,39.2947,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Monroe,39.2947,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Montgomery,38.8142,-91.2638,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Montgomery,38.8142,-91.2638,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Montgomery,38.8142,-91.2638,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Montgomery,38.8142,-91.2638,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Morgan,38.3506,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Morgan,38.3506,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Morgan,38.3506,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Morgan,38.3506,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+New Madrid,36.5867,-89.5181,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+New Madrid,36.5867,-89.5181,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+New Madrid,36.5867,-89.5181,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+New Madrid,36.5867,-89.5181,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Newton,36.9872,-94.2191,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Newton,36.9872,-94.2191,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Newton,36.9872,-94.2191,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Newton,36.9872,-94.2191,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Nodaway,40.35,-94.8441,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Nodaway,40.35,-94.8441,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Nodaway,40.35,-94.8441,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Nodaway,40.35,-94.8441,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Oregon,36.8983,-91.5604,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Oregon,36.8983,-91.5604,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Oregon,36.8983,-91.5604,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Oregon,36.8983,-91.5604,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Osage,38.5131,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Osage,38.5131,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Osage,38.5131,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Osage,38.5131,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ozark,36.8983,-92.6888,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ozark,36.8983,-92.6888,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ozark,36.8983,-92.6888,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ozark,36.8983,-92.6888,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pemiscot,36.1514,-89.8854,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pemiscot,36.1514,-89.8854,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pemiscot,36.1514,-89.8854,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pemiscot,36.1514,-89.8854,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Perry,37.8353,-89.8854,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Perry,37.8353,-89.8854,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Perry,37.8353,-89.8854,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Perry,37.8353,-89.8854,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pettis,38.6906,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pettis,38.6906,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pettis,38.6906,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pettis,38.6906,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Phelps,37.8975,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Phelps,37.8975,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Phelps,37.8975,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Phelps,37.8975,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pike,39.2947,-90.9683,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pike,39.2947,-90.9683,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pike,39.2947,-90.9683,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pike,39.2947,-90.9683,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Platte,39.3644,-94.8441,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Platte,39.3644,-94.8441,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Platte,39.3644,-94.8441,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Platte,39.3644,-94.8441,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Polk,37.6431,-93.493,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Polk,37.6431,-93.493,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Polk,37.6431,-93.493,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Polk,37.6431,-93.493,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pulaski,37.8975,-92.2604,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pulaski,37.8975,-92.2604,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pulaski,37.8975,-92.2604,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Pulaski,37.8975,-92.2604,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Putnam,40.44,-93.1771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Putnam,40.44,-93.1771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Putnam,40.44,-93.1771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Putnam,40.44,-93.1771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ralls,39.5281,-91.2638,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ralls,39.5281,-91.2638,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ralls,39.5281,-91.2638,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ralls,39.5281,-91.2638,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Randolph,39.4281,-92.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Randolph,39.4281,-92.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Randolph,39.4281,-92.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Randolph,39.4281,-92.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ray,39.2906,-94.0533,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ray,39.2906,-94.0533,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ray,39.2906,-94.0533,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ray,39.2906,-94.0533,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Reynolds,37.3261,-91.0079,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Reynolds,37.3261,-91.0079,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Reynolds,37.3261,-91.0079,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Reynolds,37.3261,-91.0079,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ripley,36.62,-90.8516,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ripley,36.62,-90.8516,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ripley,36.62,-90.8516,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ripley,36.62,-90.8516,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Saline,39.1281,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Saline,39.1281,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Saline,39.1281,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Saline,39.1281,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Schuyler,40.44,-92.4771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Schuyler,40.44,-92.4771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Schuyler,40.44,-92.4771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Schuyler,40.44,-92.4771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scotland,40.44,-91.7518,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scotland,40.44,-91.7518,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scotland,40.44,-91.7518,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scotland,40.44,-91.7518,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scott,37.0889,-89.5181,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scott,37.0889,-89.5181,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scott,37.0889,-89.5181,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Scott,37.0889,-89.5181,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shannon,37.1558,-91.2638,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shannon,37.1558,-91.2638,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shannon,37.1558,-91.2638,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shannon,37.1558,-91.2638,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shelby,39.77,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shelby,39.77,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shelby,39.77,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Shelby,39.77,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Charles,38.7881,-90.641,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Charles,38.7881,-90.641,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Charles,38.7881,-90.641,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Charles,38.7881,-90.641,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Clair,38.0581,-94.2191,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Clair,38.0581,-94.2191,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Clair,38.0581,-94.2191,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Clair,38.0581,-94.2191,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Francois,37.8353,-90.4134,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Francois,37.8353,-90.4134,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Francois,37.8353,-90.4134,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Francois,37.8353,-90.4134,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis,38.627,-90.1994,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis,38.627,-90.1994,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis,38.627,-90.1994,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis,38.627,-90.1994,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ste. Genevieve,37.8972,-90.041,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ste. Genevieve,37.8972,-90.041,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ste. Genevieve,37.8972,-90.041,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Ste. Genevieve,37.8972,-90.041,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stoddard,36.8983,-89.8854,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stoddard,36.8983,-89.8854,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stoddard,36.8983,-89.8854,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stoddard,36.8983,-89.8854,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stone,36.8983,-93.2188,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stone,36.8983,-93.2188,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stone,36.8983,-93.2188,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Stone,36.8983,-93.2188,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Sullivan,40.1906,-93.1771,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Sullivan,40.1906,-93.1771,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Sullivan,40.1906,-93.1771,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Sullivan,40.1906,-93.1771,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Taney,36.7275,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Taney,36.7275,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Taney,36.7275,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Taney,36.7275,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Texas,37.3261,-91.8357,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Texas,37.3261,-91.8357,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Texas,37.3261,-91.8357,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Texas,37.3261,-91.8357,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Vernon,37.7842,-94.3474,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Vernon,37.7842,-94.3474,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Vernon,37.7842,-94.3474,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Vernon,37.7842,-94.3474,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Warren,38.8142,-91.2638,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Warren,38.8142,-91.2638,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Warren,38.8142,-91.2638,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Warren,38.8142,-91.2638,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Washington,38.0581,-90.641,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Washington,38.0581,-90.641,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Washington,38.0581,-90.641,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Washington,38.0581,-90.641,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wayne,37.1558,-90.4134,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wayne,37.1558,-90.4134,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wayne,37.1558,-90.4134,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wayne,37.1558,-90.4134,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Webster,37.2167,-92.8238,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Webster,37.2167,-92.8238,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Webster,37.2167,-92.8238,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Webster,37.2167,-92.8238,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Worth,40.44,-94.8441,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Worth,40.44,-94.8441,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Worth,40.44,-94.8441,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Worth,40.44,-94.8441,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wright,37.2167,-92.0104,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wright,37.2167,-92.0104,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wright,37.2167,-92.0104,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+Wright,37.2167,-92.0104,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis City,38.627,-90.1994,Emergency Department,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis City,38.627,-90.1994,Level II Trauma Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis City,38.627,-90.1994,Tertiary Care Center,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations
+St. Louis City,38.627,-90.1994,Critical Access Hospital,TBD,,,,,,TEMPLATE,Replace with actual drive time calculations

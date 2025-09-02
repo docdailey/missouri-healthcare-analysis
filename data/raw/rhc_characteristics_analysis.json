@@ -1,0 +1,39 @@
+{
+  "total_rhcs": 316,
+  "geographic_distribution": {
+    "unique_cities": 7,
+    "top_10_cities": {
+      "SIKESTON": 7,
+      "POPLAR BLUFF": 6,
+      "CAPE GIRARDEAU": 6,
+      "MOUNTAIN GROVE": 5,
+      "DEXTER": 5,
+      "BOLIVAR": 5,
+      "BRANSON": 5,
+      "POTOSI": 5,
+      "FARMINGTON": 4,
+      "WEST PLAINS": 4
+    },
+    "single_rhc_cities": 123,
+    "multi_rhc_cities": 70
+  },
+  "organization_types": {
+    "CORPORATION": 173,
+    "OTHER": 96,
+    "LLC": 42,
+    "SOLE PROPRIETOR": 5
+  },
+  "ownership_structure": {
+    "N": 254,
+    "P": 62
+  },
+  "incorporation_analysis": {
+    "missouri_incorporated": 179,
+    "out_of_state_incorporated": 8,
+    "incorporation_states": {
+      "MO": 179,
+      "IL": 6,
+      "DE": 2
+    }
+  }
+}
