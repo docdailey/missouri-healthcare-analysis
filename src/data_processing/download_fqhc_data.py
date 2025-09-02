@@ -19,7 +19,7 @@ def download_hrsa_fqhc_data():
     base_url = "https://data.hrsa.gov/api/v1/data"
 
     # Create data directory
-    data_dir = Path("data/fqhc")
+    data_dir = Path("data/external")
     data_dir.mkdir(parents=True, exist_ok=True)
 
     # Try to get FQHC data
@@ -260,7 +260,7 @@ def main():
     df = classify_rural_urban(df)
 
     # Save processed data
-    output_file = Path("data/fqhc/missouri_fqhcs_processed.csv")
+    output_file = Path("data/external/missouri_fqhcs_processed.csv")
     df.to_csv(output_file, index=False)
 
     # Print summary

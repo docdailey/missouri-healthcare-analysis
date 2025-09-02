@@ -19,7 +19,7 @@ def create_final_map():
     print("="*60)
     
     # Load the complete RHC data with all 330 facilities
-    data_dir = Path("data/operational")
+    data_dir = Path("data/raw")
     
     # Try the complete 330 dataset first
     rhc_file = data_dir / "missouri_rhcs_complete_330_20250831.csv"

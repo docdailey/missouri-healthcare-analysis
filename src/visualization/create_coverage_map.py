@@ -56,14 +56,14 @@ def create_comprehensive_coverage_map():
     print(f"✓ Loaded {len(hospitals)} Missouri hospitals")
     
     # Load RHC data (complete 330 dataset)
-    rhc_file = Path("data/operational/missouri_rhcs_complete_330_20250831.csv")
+    rhc_file = Path("data/raw/missouri_rhcs_complete_330_20250831.csv")
     if not rhc_file.exists():
-        rhc_file = Path("data/operational/missouri_rhcs_final_corrected_20250831.csv")
+        rhc_file = Path("data/raw/missouri_rhcs_final_corrected_20250831.csv")
     rhcs = pd.read_csv(rhc_file)
     print(f"✓ Loaded {len(rhcs)} Missouri RHCs")
     
     # Load FQHC data
-    fqhc_file = Path("data/fqhc/missouri_fqhcs_comprehensive.csv")
+    fqhc_file = Path("data/external/missouri_fqhcs_comprehensive.csv")
     if fqhc_file.exists():
         fqhcs = pd.read_csv(fqhc_file)
         print(f"✓ Loaded {len(fqhcs)} Missouri FQHC sites")
@@ -375,7 +375,7 @@ def create_comprehensive_coverage_map():
     ).add_to(m)
     
     # Save map
-    output_dir = Path("analysis/optimization/output")
+    output_dir = Path("outputs/maps")
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file = output_dir / "missouri_healthcare_coverage_map.html"
     

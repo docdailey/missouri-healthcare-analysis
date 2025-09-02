@@ -13,7 +13,7 @@ import json
 sys.path.append(str(Path(__file__).parent))
 
 from analysis.redundancy_analysis import analyze_service_redundancy
-from visualization.create_coverage_map import create_comprehensive_map
+from visualization.create_coverage_map import create_comprehensive_coverage_map
 
 
 def main():
@@ -73,9 +73,8 @@ def main():
         print("\nCreating interactive maps...")
         try:
             from visualization import create_coverage_map
-            map_file = output_path / 'maps' / 'missouri_healthcare_coverage.html'
-            create_coverage_map.create_comprehensive_map(output_file=str(map_file))
-            print(f"✓ Map created: {map_file}")
+            create_coverage_map.create_comprehensive_coverage_map()
+            print(f"✓ Map created: outputs/maps/missouri_healthcare_coverage_map.html")
         except Exception as e:
             print(f"✗ Map creation failed: {e}")
     
