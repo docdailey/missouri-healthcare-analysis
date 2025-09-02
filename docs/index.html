@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Missouri Healthcare Infrastructure Analysis</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f4f4f4;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .subtitle {
+            margin-top: 0.5rem;
+            opacity: 0.9;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .stat-label {
+            color: #666;
+            margin-top: 0.5rem;
+        }
+        .maps-section {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin: 2rem 0;
+        }
+        .map-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+        .map-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+        .map-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .map-thumbnail {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 3rem;
+        }
+        .map-info {
+            padding: 1.5rem;
+        }
+        .map-title {
+            font-size: 1.25rem;
+            margin: 0 0 0.5rem 0;
+            color: #2c3e50;
+        }
+        .map-description {
+            color: #666;
+            margin-bottom: 1rem;
+        }
+        .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+        .btn:hover {
+            background: #2980b9;
+        }
+        .btn-secondary {
+            background: #95a5a6;
+            margin-left: 0.5rem;
+        }
+        .btn-secondary:hover {
+            background: #7f8c8d;
+        }
+        .key-findings {
+            background: #e8f4f8;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            border-left: 4px solid #3498db;
+        }
+        .finding-item {
+            margin: 1rem 0;
+            padding-left: 1rem;
+        }
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            margin-top: 3rem;
+        }
+        .footer a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            .stats {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Missouri Healthcare Infrastructure Analysis</h1>
+        <p class="subtitle">Comprehensive geospatial analysis of hospitals, Rural Health Clinics, and FQHCs</p>
+    </header>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-number">478</div>
+            <div class="stat-label">Total Facilities Mapped</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">105</div>
+            <div class="stat-label">Hospitals</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">330</div>
+            <div class="stat-label">Rural Health Clinics</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">43</div>
+            <div class="stat-label">FQHCs</div>
+        </div>
+    </div>
+
+    <div class="key-findings">
+        <h2>Key Findings</h2>
+        <div class="finding-item">
+            <strong>📍 9 Critical Isolated Facilities:</strong> These facilities have no alternatives within 20 miles and are essential for their communities
+        </div>
+        <div class="finding-item">
+            <strong>💰 $219 Million Potential Savings:</strong> Annual inefficiency identified through service area overlap analysis
+        </div>
+        <div class="finding-item">
+            <strong>📊 4.8 Average Redundancy Score:</strong> Typical facility has ~5 overlapping service areas within 20 miles
+        </div>
+        <div class="finding-item">
+            <strong>🏥 95%+ Overlap Rate:</strong> In metropolitan areas, indicating significant service redundancy
+        </div>
+    </div>
+
+    <div class="maps-section">
+        <h2>Interactive Maps</h2>
+        <p>Explore Missouri's healthcare infrastructure through these interactive visualizations. Click "View Full Map" to open the interactive version with all features.</p>
+        
+        <div class="map-grid">
+            <div class="map-card">
+                <div class="map-thumbnail">
+                    🗺️
+                </div>
+                <div class="map-info">
+                    <h3 class="map-title">Comprehensive Healthcare Coverage Map</h3>
+                    <p class="map-description">
+                        Interactive map showing all 478 healthcare facilities with toggleable layers for hospitals, RHCs, and FQHCs. 
+                        Includes 15, 30, and 45-minute drive time coverage circles.
+                    </p>
+                    <a href="missouri_healthcare_coverage_map.html" class="btn">View Full Map</a>
+                    <a href="https://github.com/docdailey/missouri-healthcare-analysis/blob/main/outputs/maps/missouri_healthcare_coverage_map.html" class="btn btn-secondary">View Source</a>
+                </div>
+            </div>
+
+            <div class="map-card">
+                <div class="map-thumbnail">
+                    🏥
+                </div>
+                <div class="map-info">
+                    <h3 class="map-title">Rural Health Clinics Complete Map</h3>
+                    <p class="map-description">
+                        Focused visualization of all 330 Missouri RHCs, color-coded by health system affiliation. 
+                        Features search functionality and clustered view for dense areas.
+                    </p>
+                    <a href="missouri_rhcs_final_complete_100pct.html" class="btn">View Full Map</a>
+                    <a href="https://github.com/docdailey/missouri-healthcare-analysis/blob/main/outputs/maps/missouri_rhcs_final_complete_100pct.html" class="btn btn-secondary">View Source</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="maps-section">
+        <h2>About This Analysis</h2>
+        <p>
+            This project provides a comprehensive assessment of Missouri's healthcare infrastructure, analyzing the distribution 
+            and accessibility of hospitals, Rural Health Clinics (RHCs), and Federally Qualified Health Centers (FQHCs) across the state.
+        </p>
+        <p>
+            Using geospatial analysis techniques and 30-minute drive time service areas (approximately 20-mile radius), 
+            we identified both redundancies and critical gaps in healthcare coverage. The analysis reveals significant 
+            opportunities for system optimization while highlighting essential facilities that must be preserved to maintain 
+            healthcare access in rural communities.
+        </p>
+        
+        <h3>Data Sources</h3>
+        <ul>
+            <li>CMS Provider Enrollment Data (April & August 2024)</li>
+            <li>Missouri Hospital Association</li>
+            <li>HRSA Data Warehouse</li>
+            <li>Missouri Department of Health and Senior Services</li>
+        </ul>
+
+        <h3>Methodology</h3>
+        <ul>
+            <li>100% geocoding success rate for all 478 facilities</li>
+            <li>Haversine distance calculations for service area analysis</li>
+            <li>30-minute drive time standard for rural healthcare access</li>
+            <li>Consolidation opportunity identification using 10-mile clustering</li>
+        </ul>
+    </div>
+
+    <footer class="footer">
+        <p>
+            <strong>Missouri Healthcare Infrastructure Analysis</strong><br>
+            Analysis completed: September 2025<br>
+            <a href="https://github.com/docdailey/missouri-healthcare-analysis">View on GitHub</a> | 
+            <a href="https://github.com/docdailey/missouri-healthcare-analysis/blob/main/README.md">Documentation</a> |
+            <a href="https://github.com/docdailey/missouri-healthcare-analysis/tree/main/data">Download Data</a>
+        </p>
+    </footer>
+</body>
+</html>

@@ -2,6 +2,13 @@
 
 A comprehensive geospatial analysis of Missouri's healthcare infrastructure, focusing on hospitals, Rural Health Clinics (RHCs), and Federally Qualified Health Centers (FQHCs). This project identifies service area overlaps, coverage gaps, and opportunities for healthcare system optimization.
 
+## 🗺️ View Interactive Maps
+
+**[View Live Interactive Maps →](https://docdailey.github.io/missouri-healthcare-analysis/)**
+
+- [Comprehensive Coverage Map](https://docdailey.github.io/missouri-healthcare-analysis/missouri_healthcare_coverage_map.html) - All 478 facilities with coverage circles
+- [Rural Health Clinics Map](https://docdailey.github.io/missouri-healthcare-analysis/missouri_rhcs_final_complete_100pct.html) - 330 RHCs with health system affiliations
+
 ## Overview
 
 This repository contains comprehensive data, analysis scripts, and interactive dashboards for Missouri's healthcare infrastructure. The project maps and analyzes hospitals, Rural Health Clinics (RHCs), and Federally Qualified Health Centers (FQHCs) across the state.
