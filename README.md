@@ -4,10 +4,17 @@ A comprehensive geospatial analysis of Missouri's healthcare infrastructure, foc
 
 ## 🗺️ View Interactive Maps
 
-**[View Live Interactive Maps →](https://docdailey.github.io/missouri-healthcare-analysis/)**
+**[View Live Interactive Maps →](https://docdailey.github.io/missouri-healthcare-analysis/)** *(GitHub Pages must be enabled - see [setup instructions](ENABLE_GITHUB_PAGES.md))*
 
+### Direct Map Links:
 - [Comprehensive Coverage Map](https://docdailey.github.io/missouri-healthcare-analysis/missouri_healthcare_coverage_map.html) - All 478 facilities with coverage circles
 - [Rural Health Clinics Map](https://docdailey.github.io/missouri-healthcare-analysis/missouri_rhcs_final_complete_100pct.html) - 330 RHCs with health system affiliations
+
+### Local Viewing:
+If GitHub Pages is not enabled, you can view the maps locally:
+- Download the repository
+- Open `docs/index.html` in your web browser
+- Or open the HTML files directly from `docs/` folder
 
 ## Overview
 
