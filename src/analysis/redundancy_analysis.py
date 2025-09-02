@@ -46,14 +46,16 @@ def analyze_service_redundancy():
         hospitals = pd.DataFrame()
     
     # Load RHCs
-    rhc_file = Path("data/operational/missouri_rhcs_complete_330_20250831.csv")
+    rhc_file = Path("data/raw/missouri_rhcs_complete_330_20250831.csv")
     if rhc_file.exists():
         rhcs = pd.read_csv(rhc_file)
+        # Remove rows with no coordinates (empty rows at the end)
+        rhcs = rhcs[rhcs['latitude'].notna() & rhcs['longitude'].notna()]
     else:
         rhcs = pd.DataFrame()
     
     # Load FQHCs
-    fqhc_file = Path("data/fqhc/missouri_fqhcs_comprehensive.csv")
+    fqhc_file = Path("data/external/missouri_fqhcs_comprehensive.csv")
     if fqhc_file.exists():
         fqhcs = pd.read_csv(fqhc_file)
     else:
@@ -84,9 +86,12 @@ def analyze_service_redundancy():
     for _, rhc in rhcs.iterrows():
         lat = rhc.get('Latitude', rhc.get('latitude', 0))
         lon = rhc.get('Longitude', rhc.get('longitude', 0))
-        if lat != 0 and lon != 0:
+        if lat != 0 and lon != 0 and not pd.isna(lat) and not pd.isna(lon):
+            name = rhc.get('ORGANIZATION NAME', rhc.get('Clinic Name', 'Unknown'))
+            if pd.isna(name) or name == '':
+                name = rhc.get('DOING BUSINESS AS NAME', 'Unknown')
             facilities.append({
-                'name': rhc.get('ORGANIZATION NAME', rhc.get('Clinic Name', 'Unknown')),
+                'name': name,
                 'type': 'RHC',
                 'subtype': 'Rural Health Clinic',
                 'lat': lat,
